@@ -292,6 +292,38 @@ canvas {
     animation-delay: 1.3s;
 }
 
+/*about page*/
+.about22{
+        width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 70px 10% 0;
+}
+.about-content-23{
+    max-width: 600px;
+    padding: 50px;
+}
+
+.about-content-23 h1{
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.2;
+    opacity: 0;
+  
+}
+
+.about-content-23 h2{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1.2;
+    opacity: 0;
+    
+}
+
+.
+
 /* Animation */
 @keyframes slideTop {
     0% {
