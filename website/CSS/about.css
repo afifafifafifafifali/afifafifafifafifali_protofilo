@@ -72,7 +72,7 @@ body {
     -webkit-background-clip: text;
 }
 
-.about {
+.about22 {
     width: 100%;
     height: 100vh;
     display: flex;
@@ -82,19 +82,33 @@ body {
     margin-top: 10%;
 }
 
-.about-img img {
+.about22-img img {
     padding: auto;
 }
 
-.about-content h3 {
+.about-content-23 h3 {
     font-size: 32px;
     font-weight: 700;
     opacity: 0;
     animation: slideLeft 1s ease forwards;
     animation-delay: 1s;
 }
+.about-content-23 h2 {
+    font-size: 40px;
+    font-weight: 700;
+    opacity: 0;
+    animation: slideLeft 1s ease forwards;
+    animation-delay: 1s;
+}
+.about-content-23 h1 {
+    font-size: 40px;
+    font-weight: 700;
+    opacity: 0;
+    animation: slideLeft 1s ease forwards;
+    animation-delay: 1s;
+}
 
-.about-content p {
+.about-content-23 p {
     font-size: 16px;
     margin: 20px 0 0;
     text-align: left;
